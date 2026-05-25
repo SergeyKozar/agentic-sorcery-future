@@ -16,6 +16,7 @@ But this is not a finished book.
 This is a living story shaped by its community.
 
 You are invited to share your vision in literary form.
+
 Start reading here: [Part I. The Last Dart](chapters/part-01-the-last-dart.md)
 
 You can contribute in any form:
