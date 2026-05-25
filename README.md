@@ -1,16 +1,19 @@
 # Agentic Sorcery Future
 
-## Your Vision Belongs in the Archive
-
+## Your Vision Can Shape the Story
 The future will not be written only by governments, corporations, labs, models, or machines.
 
-It will also be written by people who can still imagine.
+It will also be shaped by people who want to be heard.
+
+By people who want to argue with the default future.
+
+By people who can turn fear, hope, anger, memory, love, injustice, technology, and absurd human life into story.
 
 **Agentic Sorcery Future** is an open-source novel and a planetary writing experiment about AI agents, protocol magic, quantum power, robot bodies, and humanity addicted to artificial intelligence.
 
 But this is not a finished book.
 
-This is a living archive of possible futures.
+This is a living story shaped by its community.
 
 You are invited to share your vision in literary form.
 
