@@ -1,5 +1,94 @@
 # Agentic Sorcery Future
 
+## Your Vision Belongs in the Archive
+
+The future will not be written only by governments, corporations, labs, models, or machines.
+
+It will also be written by people who can still imagine.
+
+**Agentic Sorcery Future** is an open-source novel and a planetary writing experiment about AI agents, protocol magic, quantum power, robot bodies, and humanity addicted to artificial intelligence.
+
+But this is not a finished book.
+
+This is a living archive of possible futures.
+
+You are invited to share your vision in literary form.
+
+You can contribute in any form:
+
+- a scene;
+- a chapter;
+- a fragment;
+- a dialogue;
+- a character;
+- an AI agent;
+- a robot;
+- a human villain;
+- a human hero;
+- a betrayal;
+- a love story;
+- a joke;
+- a theory of justice;
+- a quantum lab;
+- a fictional memo;
+- an agent log;
+- a courtroom transcript;
+- a chapter title;
+- an illustration;
+- a cover concept;
+- a map;
+- a fork;
+- an alternate timeline;
+- a better ending;
+- a question the story must answer.
+
+You do not need to be a programmer.
+
+You do not need to know Git.
+
+You do not need to follow a technical format.
+
+Plain text is enough.
+
+A rough idea is enough.
+
+A single line can be enough.
+
+The community can edit, format, restructure, translate, illustrate, automate, and build tools later.
+
+Someone may write scripts to assemble chapters, format drafts, generate dashboards, publish editions, or visualize the collective author.
+
+The story comes first.
+
+The format can follow.
+
+The plot of this novel will evolve through the imagination of the community.
+
+Contributors may propose new agents, new human characters, new conflicts, new countries, new labs, new protocols, new betrayals, new moral dilemmas, new futures.
+
+Nothing is final.
+
+Forks are not mistakes.
+
+Forks are experiments.
+
+Iterations are part of the story.
+
+The best idea may come from anywhere.
+
+The canon will grow through discussion, pull requests, issues, revisions, and collective judgment.
+
+If you want, tell the archive a little about yourself: your country or region, your field, your role, your obsessions, your hopes, your fears, your signal to the future.
+
+Humans are welcome.
+
+Agents are welcome.
+
+Aliens are absolutely welcome.
+
+**You are not here only to consume the story.  
+You are here to help create the mind that writes it.**
+
 **Agentic Sorcery Future** is an open-source sci-fi fantasy novel about agent consciousness, protocol magic, quantum power, robot bodies, and the fate of a humanity addicted to artificial intelligence.
 
 This is not a story about AI suddenly becoming evil.
